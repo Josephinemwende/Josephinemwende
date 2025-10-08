@@ -1,68 +1,31 @@
-# 👋 Hi, I'm Josephine Mwende
+## Software Developer | UI/UX Designer
 
-🌍 **Software Engineer | UI/UX Enthusiast | Tech Explorer**  
-💻 Passionate about building clean, responsive web applications that deliver great user experiences.
+👋 Hello, I'm Josephine Mwenswa a software Developer and UI/UX Designer passionate about building seamless, user-focused digital experiences. I enjoy transforming ideas into functional, visually engaging products — from front-end interfaces to back-end logic. I value clean code, thoughtful design, and intuitive user interactions that make technology feel effortless.
 
----
+## Technical Skills
 
-## 🚀 About Me
+- **Languages**: Python, JavaScript(ES6+), TypeScript
+- **Frameworks & Libraries**: React, Node.js, Bootstrap5, TailwindCSS
+- **Web Technologies**: HTML5, CSS3, SCSS, REAST APIs 
+- **Databases**: MySQL, PostgreSQL
+- **Cloud**: AWS
+- **Tools**: Git, Linux, Docker, Vite, Jest
 
-- 💡 I love crafting intuitive and visually appealing web interfaces.  
-- 🌱 Currently learning more about **TypeScript**, **React**, and **microservices architecture**.  
-- 🧠 Strong interest in **data-driven applications** and **modern frontend frameworks**.  
-- 🎯 My goal: to build impactful solutions that combine design, usability, and performance.
+## Featured Projects
 
----
-
-## 🧰 Tech Stack
-
-| Frontend | Backend | Tools & Platforms | Design |
-|-----------|------------------|---------|
-| HTML, CSS, JavaScript, TypeScript, React, TailwindCSS, SCSS, Bootstrap5 | Python, Node.js, Django | Git, GitHub | Figma, Responsive Design, UI/UX Principles |
-
----
-
-## 🌟 Featured Projects
-
-### 🧑‍💻 [Josephine Portfolio](https://github.com/Josephinemwende/Josephine-Portfolio)
+**[Josephine Portfolio](https://github.com/Josephinemwende/Josephine-Portfolio)**
 A modern, responsive portfolio web application showcasing my work, skills, and projects.  
-**Tech:** HTML, CSS, JavaScript, Node.js   
-✨ Features: Minimal design, smooth UI/UX, fully responsive layout.
 
----
+**[Super Predictions](https://github.com/Josephinemwende/Super-Predictions)**
+A web platform under development that provides sports enthusiasts with data-driven betting tips and predictions. My role focuses on building the frontend interface that delivers seamless and responsive user experience.
+**[Africa Elevators Inspection Page](https://github.com/Josephinemwende/Africa-Elevators-Inspection-Page)**
+A responsive landing page designed to showcase Africa Elevators’ inspection services, streamline appointment scheduling, and communicate compliance and safety standards. Focused on user experience, clarity, and accessibility.
 
-### ⚙️ [Super Predictions](https://github.com/Josephinemwende/Super-Predictions)
-A data-driven sports prediction platform built with **React** and **TypeScript**.  
-**Focus:** Frontend interface design and user experience for accurate prediction displays.
+**[Monolith to Microservices Project](https://github.com/Josephinemwende/monolith-to-microservices-project)**
+Code for the Udacity project Monolith to Microservices at Scale — learning to refactor large-scale applications.  
 
----
-
-### 🏗️ [Monolith to Microservices Project](https://github.com/Josephinemwende/monolith-to-microservices-project)
-Code for the Udacity project **"Monolith to Microservices at Scale"** — learning to refactor large-scale applications.  
-**Tech:** TypeScript, Node.js, Docker
-
----
-
-### 🛠️ [Africa Elevators Inspection Page](https://github.com/Josephinemwende/Africa-Elevators-Inspection-Page)
-A landing page showcasing Africa Elevators' inspection services.  
-**Goal:** Improve communication, streamline appointment scheduling, and highlight safety standards.  
-**Tech:** HTML, CSS, JavaScript
-
----
-
-## 📈 GitHub Stats
-
-![Josephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephinemwende&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephinemwende&layout=compact&theme=tokyonight)
-
----
-
-## 💬 Let’s Connect
+## Let’s Connect
 
 📫 [Email me](josephine.mwenswa@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/josephine-mwenswa)  
 🌐 [Portfolio Website](https://josephinemwende.github.io/Josephine-Portfolio/)  
-
----
-
-✨ _“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs_
