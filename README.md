@@ -13,15 +13,16 @@
 
 ## Featured Projects
 
-**[Josephine Portfolio](https://github.com/Josephinemwende/Josephine-Portfolio)**
+**[Josephine Portfolio](https://github.com/Josephinemwende/Josephine-Portfolio)**: 
 A modern, responsive portfolio web application showcasing my work, skills, and projects.  
 
-**[Super Predictions](https://github.com/Josephinemwende/Super-Predictions)**
+**[Super Predictions](https://github.com/Josephinemwende/Super-Predictions)**: 
 A web platform under development that provides sports enthusiasts with data-driven betting tips and predictions. My role focuses on building the frontend interface that delivers seamless and responsive user experience.
-**[Africa Elevators Inspection Page](https://github.com/Josephinemwende/Africa-Elevators-Inspection-Page)**
+
+**[Africa Elevators Inspection Page](https://github.com/Josephinemwende/Africa-Elevators-Inspection-Page)**: 
 A responsive landing page designed to showcase Africa Elevators’ inspection services, streamline appointment scheduling, and communicate compliance and safety standards. Focused on user experience, clarity, and accessibility.
 
-**[Monolith to Microservices Project](https://github.com/Josephinemwende/monolith-to-microservices-project)**
+**[Monolith to Microservices Project](https://github.com/Josephinemwende/monolith-to-microservices-project)**: 
 Code for the Udacity project Monolith to Microservices at Scale — learning to refactor large-scale applications.  
 
 ## Let’s Connect
