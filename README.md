@@ -5,8 +5,8 @@
 ## Technical Skills
 
 - **Languages**: Python, JavaScript(ES6+), TypeScript
-- **Frameworks & Libraries**: React, Node.js, Bootstrap5, TailwindCSS
-- **Web Technologies**: HTML5, CSS3, SCSS, REAST APIs 
+- **Frameworks & Libraries**: React, Node.js, Django, Bootstrap5, TailwindCSS
+- **Web Technologies**: HTML5, CSS3, SCSS, REST APIs 
 - **Databases**: MySQL, PostgreSQL
 - **Cloud**: AWS
 - **Tools**: Git, Linux, Docker, Vite, Jest
